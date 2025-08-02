@@ -65,10 +65,9 @@
 
 | Platform | Badge |
 |----------|--------|
-| LeetCode | [🔗 Profile](#) |
-| Codeforces | [🔗 Profile](#) |
-| HackerRank | [🔗 Profile](#) |
-| GeeksforGeeks | [🔗 Profile](#) |
+| LeetCode | [🔗 Profile](https://leetcode.com/u/SamGiftson/) |
+| HackerRank | [🔗 Profile](https://www.hackerrank.com/profile/sam13269) |
+| GeeksforGeeks | [🔗 Profile](https://www.geeksforgeeks.org/user/samgiftljfr/) |
 
 ---
 
